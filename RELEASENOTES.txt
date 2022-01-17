@@ -1,1 +1,1 @@
-Dummy text for testing purposes
+Dummy text for testing branch 1.0
